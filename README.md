@@ -2,6 +2,8 @@
 
 A stripped-down, standalone GDM theme engine containing only the files needed to apply a macOS-style login screen background — no GTK, no Firefox, no dock themes.
 
+🌐 **[fedoratahoe.pages.dev](https://fedoratahoe.pages.dev/)**
+
 ## Requirements
 
 This repository is designed to work with **[Fedora MacTahoe — Eprahemi Edition](https://github.com/eprahemi/Fedora-MacTahoe-Eprahemi)**, which provides the full desktop transformation suite:
