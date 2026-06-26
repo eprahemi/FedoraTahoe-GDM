@@ -40,7 +40,7 @@ cd Fedora-MacTahoe-Eprahemi
 ./install.sh
 
 # 2. Clone this repo (or let gdm.fish do it on first run)
-git clone https://github.com/eprahemi/mactahoe-gdm.git ~/.local/share/mactahoe-gdm
+git clone https://github.com/eprahemi/FedoraTahoe-GDM.git ~/.local/share/mactahoe-gdm
 
 # 3. Set your GDM wallpaper
 gdm /path/to/your/wallpaper.jpg
@@ -51,7 +51,7 @@ gdm /path/to/your/wallpaper.jpg
 | Path | Purpose |
 |---|---|
 | `gdm-wallpaper.sh` | GDM theme compiler (entry point) |
-| `libs/` | Theme installation library (core, install, flatpak stubs) |
+| `libs/` | Theme installation library (core, install) |
 | `other/gdm/theme/` | Pre‑compiled MacTahoe GNOME Shell CSS and assets |
 | `other/gdm/gnome-shell-theme.gresource.xml` | GResource manifest |
 | `himeno-login.jpg` | Default wallpaper fallback |
