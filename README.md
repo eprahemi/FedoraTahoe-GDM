@@ -22,7 +22,7 @@ This repository is designed to work with **[Fedora MacTahoe — Eprahemi Edition
 
 When you use `gdm.fish` from Fedora MacTahoe, it:
 
-1. Clones or updates this repo to `~/.local/share/mactahoe-gtk/`
+1. Clones or updates this repo to `~/.local/share/mactahoe-gdm/`
 2. Calls `tweaks.sh -g -nb -nd -b "<your-wallpaper>"` 
 3. `tweaks.sh` compiles the GDM theme with your image into a `.gresource` file
 4. The new GDM theme takes effect on the next login/reboot
@@ -38,7 +38,7 @@ cd Fedora-MacTahoe-Eprahemi
 ./install.sh
 
 # 2. Clone this repo (or let gdm.fish do it on first run)
-git clone https://github.com/eprahemi/mactahoe-gdm.git ~/.local/share/mactahoe-gtk
+git clone https://github.com/eprahemi/mactahoe-gdm.git ~/.local/share/mactahoe-gdm
 
 # 3. Set your GDM wallpaper
 gdm /path/to/your/wallpaper.jpg
