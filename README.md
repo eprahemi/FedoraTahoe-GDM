@@ -58,15 +58,6 @@ gdm /path/to/your/wallpaper.jpg
 
 **~1 MB total** — 95% smaller than the full MacTahoe theme.
 
-## What's NOT Included
-
-- GTK 3/4 themes
-- Firefox/Chromium theme integration
-- Dash‑to‑Dock / Plank themes
-- Cinnamon / Xfwm / Metacity themes
-- SASS source files (only pre‑compiled CSS is shipped)
-- Git history (clean, minimal clone)
-
 Use the [full Fedora MacTahoe repo](https://github.com/eprahemi/Fedora-MacTahoe-Eprahemi) if you want the complete macOS desktop transformation.
 
 ## License
