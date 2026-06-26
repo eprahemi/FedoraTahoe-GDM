@@ -15,7 +15,7 @@ This repository is designed to work with **[Fedora MacTahoe — Eprahemi Edition
   - Interactive multi‑match picker with Kitty preview
   - ImageMagick blur/tint with custom blur retry loop
   - `gdm current` — Detect and apply current desktop wallpaper to GDM
-  - `gdm default` — 3‑tier fallback to the default macOS wallpaper
+  - `gdm default` — restore Himeno login screen
   - `gdm info` — 12‑field metadata display (format, dimensions, blur, source, etc.)
   - `gdm save` — Save the current GDM wallpaper to `~/Pictures/` with a 16‑char encrypted name
   - JPEG auto‑conversion, 21‑format image guard, empty‑file guard, and more
